@@ -1,5 +1,5 @@
 # Menghitung-Distance-Space-Dengan-Centroid-Menggunakan-Euclidiean-Distancee
- Saya menggunakan Excel untuk menguji apakah jarak data sudah sesuai atau akurat melalui pengulangan centroid/ iterasi sebanyak 3 kali dan dari pengujian di dapatkan hasil yang konsisten
+ Saya menggunakan Excel untuk menguji apakah jarak data sudah sesuai atau akurat dengan 3 kali iterasi dan dari pengujian di dapatkan hasil yang konsisten
 ![image](https://user-images.githubusercontent.com/55064831/67105965-003fb480-f1f4-11e9-95f1-2ce82e4d093a.png)
 ![image](https://user-images.githubusercontent.com/55064831/67106181-4dbc2180-f1f4-11e9-8d78-40fde3889449.png)
 ![image](https://user-images.githubusercontent.com/55064831/67106244-6c221d00-f1f4-11e9-809c-03b8b8adaa67.png)
